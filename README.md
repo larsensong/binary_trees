@@ -6,10 +6,10 @@ In this project I wil be investigating binary trees and binary search trees. I h
 
 * [Ubuntu 14.04 LTS](http://releases.ubuntu.com/14.04/) - Operating system required.
 
-* [GCC 4.8.4](https://gcc.gnu.org/gcc-4.8/) - Compiler that is to be used
+* [GCC 4.8.4](https://gcc.gnu.org/gcc-4.8/) - Compiler that is to be used.
 
 
-## :warning: Prerequisites
+## :warning: Prerequisites.
 
 * Must have `git` installed
 
